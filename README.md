@@ -6,7 +6,7 @@ This repository contains a code for a Food Delivery Chatbot for Indian food webs
 - MySQL: An open-source relational database management system.
 # Credits
 The core logic and structure of this chatbot were inspired by the tutorials and guidance provided by codebasics.io.
-
+# Contents
 
 ![Screenshot 2023-09-11 004127](https://github.com/MohamedTalal1/FoodDeliveryChatBot/assets/127398447/884952dc-3cfe-4666-b0f2-0401db6fd3dc)
 
