@@ -14,7 +14,7 @@ This repository contains a code for a Food Delivery Chatbot for Indian food webs
 1. Users interact with the chatbot using natural language queries and commands.
 2. The chatbot processes the user's input using Dialogflow's intent recognition.
 3. The FastAPI application handles the fulfillment logic based on the recognized intent.
-4. Users can do any of the Chatbot features [Order Placement - Order Tracking - Add to Order - Remove from Order - Complete Order]
+4. Users can perform any of the Chatbot features [Order Placement - Order Tracking - Add to Order - Remove from Order - Complete Order]
 # Credits
 The core logic and structure of this chatbot were inspired by the tutorials and guidance provided by codebasics.io.
 # Contents
